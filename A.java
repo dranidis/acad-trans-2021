@@ -12,6 +12,9 @@ public class A {
     }
 
     public void show() {
+    }
+    
+    public  void display() {
         
     }
 }
