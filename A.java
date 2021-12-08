@@ -11,6 +11,9 @@ public class A {
     public void calculate() {
     }
 
+    public void show() {
+    }
+    
     public  void display() {
         
     }
