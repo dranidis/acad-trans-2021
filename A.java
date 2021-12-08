@@ -5,7 +5,9 @@ public class A {
         
     }
 
-    public void fcalculate() {
-        
+    /**
+     * Some comment
+     */
+    public void calculate() {
     }
 }
