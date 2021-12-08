@@ -10,4 +10,8 @@ public class A {
      */
     public void calculate() {
     }
+
+    public  void display() {
+        
+    }
 }
