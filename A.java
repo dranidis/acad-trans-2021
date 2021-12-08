@@ -4,4 +4,8 @@ public class A {
     public void mtd() {
         
     }
+
+    public void fcalculate() {
+        
+    }
 }
